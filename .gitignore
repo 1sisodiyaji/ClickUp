@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore build output directories
+target/
+bin/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore node_modules directory
+node_modules/
